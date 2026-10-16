@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Headline & Title -->
-  <h1>Hi, I'm <span style="color: #ffffff;">Fal</span> 👋</h1>
+  <h1>Hi, I'm <span style="color: #ffffff;">Fal</span> </h1>
   <p><strong>VFX Artist & Creative Technologist</strong></p>
   <p><em>6+ Years Post-Production Experience • Currently Expanding into 3D Animation, Programming & Game Development</em></p>
 
