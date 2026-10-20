@@ -105,9 +105,9 @@ A structured roadmap connecting digital craftsmanship to interactive computer gr
 
 | Project / Media | Description | Key Tools | Link |
 | :--- | :--- | :--- | :---: |
-| 🎬 **VFX & Editing Showreel** | Comprehensive compilation of 6+ years of post-production & compositing work. | After Effects, Premiere, DaVinci | [Watch Showreel ↗](#) |
-| 🕹️ **Game Prototypes & Real-Time** | Interactive real-time visual experiments and engine mechanics. | Unreal Engine / Unity | [View Repo ↗](#) |
-| 🧊 **3D Visual Artworks** | CGI renders, lighting studies, and procedural visual tests. | Blender, Photoshop | [View ArtStation ↗](#) |
+| 🎬 **VFX & Editing Showreel** | Comprehensive compilation of 6+ years of post-production & compositing work. | After Effects, Premiere, DaVinci 
+| 🕹️ **Game Prototypes & Real-Time** | Interactive real-time visual experiments and engine mechanics. | Unreal Engine / Unity 
+| 🧊 **3D Visual Artworks** | CGI renders, lighting studies, and procedural visual tests. | Blender, Photoshop 
 
 > 💡 *Tip: Replace `#` with your actual YouTube, ArtStation, Vimeo, or Portfolio URL.*
 
